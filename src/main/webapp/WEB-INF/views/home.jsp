@@ -4,3 +4,5 @@
 
 <p>The time on the server is ${serverTime}.</p>
 
+<p>Bean says: ${injectedBeanMessage}</p>
+
